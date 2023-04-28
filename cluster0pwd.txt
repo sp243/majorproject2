@@ -1,0 +1,2 @@
+09k07W2JR7aLHP9q
+mongodb+srv://sneh:09k07W2JR7aLHP9q@cluster0.ysqznut.mongodb.net/test
